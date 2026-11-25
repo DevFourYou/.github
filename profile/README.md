@@ -1,46 +1,46 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevFourYou/.github/main/assets/header.svg" width="100%" alt="Dev4You: four devs, one vision"/>
+<img src="https://raw.githubusercontent.com/DevFourYou/.github/main/assets/header.svg" width="100%" alt="Dev4You: equipo de estudio en Lima, Perú"/>
 
 <br/>
 
-<a href="https://github.com/DevFourYou"><img src="https://img.shields.io/badge/📍_Lima,_Perú-0D1117?style=for-the-badge&labelColor=0D1117" alt="Lima, Perú"/></a>
-<img src="https://img.shields.io/badge/devs-4-00F0FF?style=for-the-badge&labelColor=0D1117" alt="4 devs"/>
-<img src="https://img.shields.io/badge/foco-VR_·_Web_·_IA-9B5CFF?style=for-the-badge&labelColor=0D1117" alt="VR, Web e IA"/>
+<a href="https://github.com/DevFourYou"><img src="https://img.shields.io/badge/📍_Lima,_Perú-161B22?style=for-the-badge&labelColor=161B22" alt="Lima, Perú"/></a>
+<img src="https://img.shields.io/badge/estudiantes-4-00F0FF?style=for-the-badge&labelColor=161B22" alt="4 estudiantes"/>
+<img src="https://img.shields.io/badge/proyectos-VR_·_Web_·_IA-9B5CFF?style=for-the-badge&labelColor=161B22" alt="VR, Web e IA"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/DevFourYou/.github/main/assets/divider.svg" width="100%"/>
 
-## 👋 Somos Dev4You
+## 👋 Quiénes somos
 
-Somos **cuatro desarrolladores** que convierten problemas reales en software que se puede **ver, tocar y entender**.
-Juntamos realidad virtual, desarrollo web full-stack e inteligencia artificial para que la tecnología explique,
-no confunda.
+Somos **cuatro estudiantes de carrera** en Lima, Perú. Usamos esta organización como **equipo de estudio** para juntar
+los proyectos que desarrollamos en los cursos de la universidad y probar ideas que mezclen realidad virtual,
+desarrollo web e inteligencia artificial.
 
 <table>
   <tr>
     <td align="center" width="33%">
       <h3>🥽</h3>
       <b>Realidad virtual</b><br/>
-      <sub>Experiencias inmersivas en Unity para Meta Quest 3, con física, háptica y voz espacial.</sub>
+      <sub>Escenas 3D, física, háptica y audio espacial en Unity para Meta Quest 3.</sub>
     </td>
     <td align="center" width="33%">
       <h3>🌐</h3>
-      <b>Web full-stack</b><br/>
-      <sub>Portales y backends rápidos con Next.js, TypeScript y Bun, listos para producción.</sub>
+      <b>Desarrollo web</b><br/>
+      <sub>Interfaces y APIs con Next.js, TypeScript y Bun para conectar todo desde el navegador.</sub>
     </td>
     <td align="center" width="33%">
       <h3>🤖</h3>
-      <b>IA responsable</b><br/>
-      <sub>Modelos que explican solo lo verificado, con las llaves siempre del lado del servidor.</sub>
+      <b>IA aplicada</b><br/>
+      <sub>Integración de modelos de lenguaje y voz para acompañar cada proyecto de estudio.</sub>
     </td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/DevFourYou/.github/main/assets/divider.svg" width="100%"/>
 
-## 🚀 Proyecto destacado: Xplica
+## 🚀 Proyecto de curso: Xplica
 
 <table>
   <tr>
@@ -49,24 +49,24 @@ no confunda.
     </td>
     <td width="48%" valign="middle">
       <h3>🦴 Espejo anatómico en VR</h3>
-      <p>El paciente se sienta en un consultorio virtual y ve <b>su propia pierna en 3D</b>, a escala real, con la lesión marcada en el sitio exacto. Separa las capas como láminas de anatomía y una <b>guía con voz</b> le explica solo lo que su médico registró.</p>
+      <p>Proyecto para el curso <b>Desarrollo de Videojuegos con Realidad Aumentada y Virtual</b>. El usuario entra a un consultorio virtual, ve una pierna en 3D a escala real, separa sus capas anatómicas y escucha a una guía explicar el caso cargado con un PIN desde el portal web.</p>
       <p>
-        <img src="https://img.shields.io/badge/181-estructuras-00F0FF?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/7-capas_anatómicas-4EA8FF?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/PIN-4_dígitos-9B5CFF?style=flat-square&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/181-estructuras-00F0FF?style=flat-square&labelColor=161B22"/>
+        <img src="https://img.shields.io/badge/7-capas_anatómicas-4EA8FF?style=flat-square&labelColor=161B22"/>
+        <img src="https://img.shields.io/badge/PIN-4_dígitos-9B5CFF?style=flat-square&labelColor=161B22"/>
       </p>
       <p>
         <a href="https://github.com/DevFourYou/Xplica"><b>🥽 Visor VR</b></a> ·
-        <a href="https://github.com/DevFourYou/xplica-web"><b>🩺 Portal y backend</b></a> ·
+        <a href="https://github.com/DevFourYou/xplica-web"><b>🩺 Portal web</b></a> ·
         <a href="https://github.com/DevFourYou/Xplica/releases"><b>📦 Releases</b></a>
       </p>
     </td>
   </tr>
 </table>
 
-> [!IMPORTANT]
-> **Diseño clínico responsable:** la guía **no diagnostica**, trabajamos **solo con casos ficticios** (Ley 29733) y las
-> llaves de IA **nunca salen del servidor**.
+> [!NOTE]
+> **Trabajo académico:** todos los casos e informes usados en las pruebas son ficticios (Ley 29733), la guía no
+> diagnostica y los repositorios de código del proyecto son privados mientras dura el curso.
 
 <details>
 <summary><b>🏗️ Cómo se conecta todo</b></summary>
@@ -74,7 +74,7 @@ no confunda.
 
 ```mermaid
 flowchart LR
-    A["📄 Informe PDF"] --> B["🩺 Portal del médico<br/>Next 16 + Bun"]
+    A["📄 Informe PDF"] --> B["🩺 Portal web<br/>Next 16 + Bun"]
     B -- "ficha con citas verificadas" --> C["🔐 PIN de 4 dígitos"]
     C --> D["🥽 Visor VR<br/>Unity 6.6 + OpenXR"]
     D --> E["🦴 Pierna por capas<br/>181 estructuras"]
@@ -84,10 +84,10 @@ flowchart LR
 </details>
 
 <details>
-<summary><b>📊 Rendimiento del visor</b></summary>
+<summary><b>📊 Optimización del visor (Unity Profiler)</b></summary>
 <br/>
 
-Medido con Unity Profiler desde la vista del paciente, antes y después de optimizar:
+Comparación desde la vista del usuario antes y después de optimizar la escena para Quest 3:
 
 | Métrica (peor cuadro) | Antes | Después | Mejora |
 | :--- | :---: | :---: | :---: |
@@ -101,7 +101,7 @@ Medido con Unity Profiler desde la vista del paciente, antes y después de optim
 
 <img src="https://raw.githubusercontent.com/DevFourYou/.github/main/assets/divider.svg" width="100%"/>
 
-## 🛠️ Stack
+## 🛠️ Con qué trabajamos
 
 <div align="center">
 
@@ -110,9 +110,9 @@ Medido con Unity Profiler desde la vista del paciente, antes y después de optim
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Meta_Quest_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Quest 3"/>
-<img src="https://img.shields.io/badge/OpenXR-0D1117?style=for-the-badge&logo=khronosgroup&logoColor=white" alt="OpenXR"/>
+<img src="https://img.shields.io/badge/OpenXR-1F2937?style=for-the-badge&logo=khronosgroup&logoColor=white" alt="OpenXR"/>
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek"/>
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
+<img src="https://img.shields.io/badge/ElevenLabs-1F2937?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
 
 </div>
 
@@ -125,22 +125,26 @@ Medido con Unity Profiler desde la vista del paciente, antes y después de optim
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/IvyedSG"><img src="https://github.com/IvyedSG.png?size=200" width="96" alt="IvyedSG"/></a><br/>
-      <b>Deyvi Sánchez</b><br/>
+      <b>Deyvi</b><br/>
+      <sub>Sánchez</sub><br/>
       <a href="https://github.com/IvyedSG"><sub>@IvyedSG</sub></a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/ander0code"><img src="https://github.com/ander0code.png?size=200" width="96" alt="ander0code"/></a><br/>
-      <b>Max Ttito</b><br/>
+      <b>Max</b><br/>
+      <sub>Ttito</sub><br/>
       <a href="https://github.com/ander0code"><sub>@ander0code</sub></a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/DiegoInga"><img src="https://github.com/DiegoInga.png?size=200" width="96" alt="DiegoInga"/></a><br/>
-      <b>Felipe Inga</b><br/>
+      <b>Felipe</b><br/>
+      <sub>Inga</sub><br/>
       <a href="https://github.com/DiegoInga"><sub>@DiegoInga</sub></a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/AngelCh0"><img src="https://github.com/AngelCh0.png?size=200" width="96" alt="AngelCh0"/></a><br/>
-      <b>Angel Choquehuanca</b><br/>
+      <b>Angel</b><br/>
+      <sub>Choquehuanca</sub><br/>
       <a href="https://github.com/AngelCh0"><sub>@AngelCh0</sub></a>
     </td>
   </tr>

@@ -58,14 +58,14 @@
     </g>
 
     <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
-      <text x="470" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="4" fill="#7D8590">&lt;/&gt; FOUR DEVS · ONE VISION</text>
+      <text x="470" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="4" fill="#7D8590">&lt;/&gt; EQUIPO DE ESTUDIO · LIMA, PERÚ</text>
       <text x="464" y="200" font-size="96" font-weight="800" letter-spacing="-2" fill="url(#title)">Dev4You</text>
       <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#E6EDF3">
         <text x="470" y="250"><tspan fill="#00F0FF">❯</tspan></text>
-        <text class="tag t1" x="498" y="250">construimos realidad virtual con propósito</text>
-        <text class="tag t2" x="498" y="250">del informe médico a una experiencia 3D</text>
-        <text class="tag t3" x="498" y="250">Unity · Next.js · Bun · IA</text>
-        <text class="tag t4" x="498" y="250">hecho en Lima, Perú</text>
+        <text class="tag t1" x="498" y="250">proyectos de carrera en VR, web e IA</text>
+        <text class="tag t2" x="498" y="250">aprendiendo juntos a construir software real</text>
+        <text class="tag t3" x="498" y="250">Unity · Next.js · Bun · C# · TypeScript</text>
+        <text class="tag t4" x="498" y="250">4 estudiantes · Universidad Autónoma del Perú</text>
       </g>
     </g>
 
